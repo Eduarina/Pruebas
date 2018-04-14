@@ -18,16 +18,6 @@
     <script src="js/myScript.js"></script>
 </head>
 <body>
-	<header>
-		<div class="box">
-  			<div class="container-1">
-                <form action="hola.html">
-                <input type="search" id="search" placeholder="Buscar..." />
-                </form>
-            </div>
-        </div>
-        <img src="img/logo.jpg" alt="Bienvenido">
-    </header>
         <jsp:include page="menu.html"></jsp:include>    
     <main>
         <aside id="der">
