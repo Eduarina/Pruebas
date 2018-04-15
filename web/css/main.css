@@ -115,6 +115,7 @@ aside h3{
 
 aside table{
 	margin-top: 10px;
+        
 }
 
 aside table th{
@@ -130,6 +131,7 @@ aside table th{
 	width: 90%;
 	font-size: 120%;
 }
+
 
 #bInfo label{
 	font-weight: bold;
@@ -197,6 +199,11 @@ aside table th{
 #info table th, #info table td{
 	font-size: 120%;
 	padding: 10px 0px;
+        color: red;
+}
+
+#ocultar{
+    display:none;
 }
 
 #pag{
@@ -211,12 +218,12 @@ aside table th{
 }
 
 #form th{
-	width: 8%;
+	width: 20%;
 	text-align: left;
 }
 
 #form td{
-	width: 100%;
+	width: 70%;
 }
 
 #encima{
@@ -234,7 +241,7 @@ aside table th{
 }
 
 #sub input[type=text], #sub input[type=email], #sub input[type=number]{
-	width: 95%;
+	width: 90%;
 	margin-left: 2%;
 	padding: 5px 5px;
 }

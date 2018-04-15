@@ -14,3 +14,10 @@ function cerrarEncima(){
 	document.getElementById("encima").style.display = "none";
 	cerrarEditable();
 }
+
+function enviar(){
+    $.post("administracion.jsp",{
+       q: "empleado",
+       instruccion:"listar"
+    });
+}

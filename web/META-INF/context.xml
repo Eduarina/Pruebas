@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/Pruebas"/>
+<Context path="/Pruebas">
+
+    <Resource name="jdbc/con" auth="Container" type="javax.sql.DataSource"
+        maxActive="15" maxIdle ="3" maxWait="5000"
+        username="root" password="1234"            
+        driverClassName = "com.mysql.jdbc.Driver"
+        url = "jdbc:mysql://localhost:3306/servicios_bioclinicos">
+        
+     </Resource>
+           
+</Context>

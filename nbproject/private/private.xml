@@ -3,11 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/css/movil.css</file>
-            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/menu.html</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/src/java/com/Prueba1/Empleados.java</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/src/java/com/Prueba1/ControladorEmpleados.java</file>
             <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/css/main.css</file>
-            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/index.jsp</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/menu.html</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/src/java/com/Prueba1/ServletPruebas.java</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/src/java/com/Prueba1/ModeloEmpleados.java</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/empleados.jsp</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/js/myScript.js</file>
             <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/clientes.jsp</file>
+            <file>file:/C:/Users/Eduardo%20Soriano/Documents/NetBeansProjects/Pruebas/web/WEB-INF/web.xml</file>
         </group>
     </open-files>
 </project-private>
